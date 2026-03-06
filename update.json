@@ -1,0 +1,15 @@
+{
+  "versionCode": 12,
+  "versionName": "2.0.0",
+  "logoUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/logo_update.png",
+  "releaseDate": "2025-06-01",
+  "changelog": [
+    "Nueva interfaz de llamadas rediseñada",
+    "Soporte para traducción en 30 idiomas",
+    "Mejora en la calidad del audio",
+    "Detección automática del idioma del hablante",
+    "Correcciones de errores y mejoras de rendimiento"
+  ],
+  "apkUrl": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v2.0.0/app-release.apk",
+  "apkSizeBytes": 18432000
+}
